@@ -41,8 +41,8 @@ export class Board {
 
   private history: History[] = [];
 
-  private board120: number[] = [];
-  private board64: number[] = [];
+  board120: number[] = [];
+  board64: number[] = [];
 
   constructor() {}
 
